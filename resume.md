@@ -3,28 +3,24 @@ title: Resume
 layout: default
 ---
 
-<div itemscope itemtype="http://schema.org/Person">
-Craig Hills{:itemprop = name}
+<div itemtype="http://schema.org/Person">
+Craig Hills
 ===========
 
 Contact
 -----------
 
 Email
-  ~ craig@chills42.com{:itemprop = email}
+  ~ craig@chills42.com
   
 Education
 -----------
-<div itemprop="alumniOf" itemscope itemtype="http://www.schema.org/CollegeOrUniversity">
-B.A. Computer Science from [Anderson University](http://anderson.edu){:itemprop = name}
+B.A. Computer Science from [Anderson University](http://anderson.edu)
 </div>
 
 Professional Experience
 ------------------------
 
-<div itemprop="worksFor" itemscope itemType="http://schema.org/Corporation">
-**Interactive Intelligence**{:itemprop = name}
-</div>
-*Sr. Automation Developer*{:itemprop = jobTitle} *2007- Current*
+**Interactive Intelligence** *Sr. Automation Developer* *2007- Current*
 
 </div>
