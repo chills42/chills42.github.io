@@ -1,3 +1,8 @@
+---
+title: Resume
+layout: default
+---
+
 <div itemscope itemtype="http://schema.org/Person">
 Craig Hills{:itemprop = name}
 ===========
