@@ -1,3 +1,7 @@
+---
+layout: index
+---
+
 # Projects
 
 ## Rust
