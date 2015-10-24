@@ -7,8 +7,8 @@ categories: programming
 
 I've been thinking a lot lately about the reasons I care so much about
 programming style. On one hand, it takes a lot of time to worry about getting
-it right, and sometimes I feel like I'm overly nit-picky in code reviews at
-times. However, on the other hand, there really is a lot of value in the
+it right, and sometimes I feel like I'm overly nit-picky in code reviews.
+However, on the other hand, there really is a lot of value in the
 extra effort.
 
 Especially as a new programmer, I remember feeling the need to follow the
