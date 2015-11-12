@@ -9,10 +9,12 @@ The short answer is that I like it. Vim is almost always available (Unless I
 have to use Windows), is incredibly powerful, and I can customize it to look
 exactly how I want.
 
-## Backstory I started out programming with the Visual Basic 6.0, then later
-Visual Studio .NET. Starting out with a heavy IDE made some things easier, but
-eventually I realized that it is often useful program without the help of code
-generation, as the result is often more maintainable.
+## Backstory
+
+I started out programming with the Visual Basic 6.0, then laterVisual Studio
+.NET. Starting out with a heavy IDE made some things easier, but eventually I
+realized that it is often useful program without the help of code generation,
+as the result is often more maintainable.
 
 With html and javascript, I started writing all the code in
 [Notepad](https://en.wikipedia.org/wiki/Notepad_(software)). This worked well,
